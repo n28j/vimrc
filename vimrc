@@ -39,3 +39,4 @@ set hlsearch
 set history=100
 set wildmenu
 set hidden
+set completeopt-=preview
